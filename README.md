@@ -10,7 +10,7 @@ Site desenvolvido como projeto da disciplina de Desenvolvimento Web. Apresenta u
 - Eventos de clique e adição de conteúdo dinâmico
 
 ## Aluno
-Alex Rodrigues de Souza
+Alex Rodrigues, Emerson Gonçalves, Emerson Junior, Ikaro Cardoso, Renan Jesus
 
 ## Imagem da Página Inicial
 ![print_tela_do_site](https://github.com/user-attachments/assets/9f76f5ab-8f21-48fd-a2ae-3c6cf5eff31c)
