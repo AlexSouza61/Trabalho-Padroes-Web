@@ -13,4 +13,4 @@ Site desenvolvido como projeto da disciplina de Desenvolvimento Web. Apresenta u
 Alex Rodrigues de Souza
 
 ## Imagem da Página Inicial
-![Página Inicial](print-home.png)
+![print_tela_do_site](https://github.com/user-attachments/assets/9f76f5ab-8f21-48fd-a2ae-3c6cf5eff31c)
